@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/alex11/cpp_prac/cousera_c++/accumulation_comp'
+relocations:     []
+...
