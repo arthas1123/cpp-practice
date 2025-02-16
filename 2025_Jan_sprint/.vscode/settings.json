@@ -1,8 +1,0 @@
-{
-    "files.associations": {
-        "iostream": "cpp",
-        "vector": "cpp"
-    },
-    "files.insertFinalNewline": true,
-    "C_Cpp.default.compilerPath": "/usr/bin/clang++"
-}
